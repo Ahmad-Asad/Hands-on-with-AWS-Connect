@@ -22,7 +22,7 @@ For this Playground, you will need access to the AWS Console. It is highly recom
 - Creating your First Contact Flow
 - Creating a CallBack Contact Flow
 - Creating Call Router Contact Flow
-3. [Lex bots](./docs/chapter-3.md)]:
+3. [Lex bots](./docs/chapter-3.md):
 - Create Lex Bot (Intents & Utterances)
 - Add Lex to Connect Instance
 4. [Further on contact flows](./docs/chapter-4.md)
