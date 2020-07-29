@@ -25,4 +25,4 @@ For this Playground, you will need access to the AWS Console. It is highly recom
 3. [Lex bots](./docs/chapter-3.md):
 - Create Lex Bot (Intents & Utterances)
 - Add Lex to Connect Instance
-4. [Further on contact flows](./docs/chapter-4.md)
+- Contact Flows
