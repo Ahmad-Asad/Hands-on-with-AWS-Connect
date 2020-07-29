@@ -103,7 +103,7 @@ To use a bot in your contact flow, add the bot to your Amazon Connect instance. 
 
 ### Final Contact Flow for Lex should look as below:
 
-![Should be a picture here](../pictures/picture-26.png)
+![Should be a picture here](../pictures/picture-28.png)
 
 ## Assign Contact Flow to a Number:
 
