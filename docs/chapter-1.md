@@ -142,3 +142,7 @@ After the dashboard you have:
 30.	**Create more users** to create “AgentTwo” with routing profile “Basic Agents”.
 
 ![Should be a picture here](../pictures/picture-19.png)
+
+[Next: Creating contact flows](chapter-2.md)
+
+[Back to the main page](../README.md)
