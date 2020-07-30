@@ -28,6 +28,16 @@
 
 ![Should be a picture here](../pictures/picture-20.png)
 
+
+1. In order to test the flow, under Routing to go Phone Numbers.
+
+2. Click on the Phone Number and it will display below.
+
+![Should be a picture here](../pictures/)
+
+3. Select TransferToQueue Flow. 
+
+
 ## Creating a CallBack Contact Flow:
 
 1.	Under Routing, select Contact Flows.
@@ -47,6 +57,14 @@
 ### Once done the contact flow should looks as below:
 
 ![Should be a picture here](../pictures/picture-21.png)
+
+1. In order to test the flow, under Routing to go Phone Numbers.
+
+2. Click on the Phone Number and it will display below.
+
+![Should be a picture here](../pictures/)
+
+3. Select TransferToCallbackQueue Flow. 
 
 ## Creating Call Router Contact Flow:
 
@@ -74,9 +92,20 @@
 
 12.	Now you can test how the caller is routed when you are Available or Unavailable in the CCP. Similarly, if you can change the Basic Hours of operation to see how users are routed.
 
+
 ### Once done the contact flow should looks as below:
 
 ![Should be a picture here](../pictures/picture-22.png)
+
+
+1. In order to test the flow, under Routing to go Phone Numbers.
+
+2. Click on the Phone Number and it will display below.
+
+![Should be a picture here](../pictures/)
+
+3. Select InboundCallRouter Flow. 
+
 
 [Next: Lex Bots](chapter-3.md)
 
