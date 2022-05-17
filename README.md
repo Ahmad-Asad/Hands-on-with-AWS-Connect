@@ -1,6 +1,6 @@
 # Amazon Connect DevOps Playground 
 ## Introduction 
-#Adding another Comment line for Git testing purpose. Ignore it.
+#Removing Line
 
 The purpose of this guide is to provide you with an introduction to Amazon Connect, Amazon Web Services cloud-based virtual contact centre offering. Leveraging example Amazon Lex to understand simple Call Steering. 
  
